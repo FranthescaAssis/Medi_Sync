@@ -1,6 +1,6 @@
 # Medi Sync - Banco de Dados (PostgreSQL)
 
-Este repositório contém o script inicial do banco de dados Medi Sync, responsável por gerenciar:
+Este repositório contém o script inicial do banco de dados **Medi Sync**, responsável por gerenciar:
 - Cadastro de usuários (pacientes);
 - Cadastro de médicos;
 - Agendamento de consultas;
