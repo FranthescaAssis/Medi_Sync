@@ -9,7 +9,7 @@ Este repositório contém o script inicial do banco de dados **Medi Sync**, resp
 
 ---
 
-## 🚀 Como usar o script SQL
+## Como usar o script SQL
 
 ### 1. Pré-requisitos
 - PostgreSQL instalado (versão 13+ recomendada).
@@ -36,7 +36,7 @@ Isso criará automaticamente o banco medisync com as tabelas necessárias.
 
 ---
 
-## 📦 Estrutura do Banco
+## Estrutura do Banco
 
 - **usuarios** → pacientes cadastrados.
 - **medicos** → profissionais de saúde.
@@ -45,7 +45,7 @@ Isso criará automaticamente o banco medisync com as tabelas necessárias.
 
 ---
 
-## ⚡ Integração com Backend
+## Integração com Backend
 
 Este banco pode ser integrado a um backend em **Node.js (Express + Sequelize)** ou **Python (Django/FastAPI)**.
 
@@ -64,7 +64,7 @@ No backend, basta configurar o ORM (Sequelize, Django ORM ou SQLAlchemy) para us
 
 ---
 
-## ✅ Próximos Passos
+## Próximos Passos
 
 - Criar rotas de API para cadastro, login, agendamento e feedback.
 - Implementar recomendações baseadas no histórico do paciente e nas avaliações dos médicos.
